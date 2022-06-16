@@ -20,11 +20,12 @@ body {
 }
 
 ul li {
-    margin-bottom: 32px;
-    font-size: 22px;
-    /* padding-left: 38px; */
-  /* list-style: none; */
+  margin-bottom: 32px;
+  font-size: 22px;
 
+  /* padding-left: 38px; */
+
+  /* list-style: none; */
 }
 
 .name {
@@ -53,7 +54,6 @@ ul li {
   margin-left: 24px;
 }
 
-
 .hr {
   width: 82%;
   margin-left: 24px;
@@ -63,18 +63,18 @@ ul li {
 }
 
 .about {
-    color: #ff6b00;
-    padding-top: 120px;
-    font-size: 56px;
-    line-height: 64px;
-    font-family: "Crete Round", sans-serif;
-  }
+  color: #ff6b00;
+  padding-top: 120px;
+  font-size: 56px;
+  line-height: 64px;
+  font-family: "Crete Round", sans-serif;
+}
 
-  .skills {
-    display: flex;
-    gap: 20%;
-    flex-direction: row;
-  }
+.skills {
+  display: flex;
+  gap: 20%;
+  flex-direction: row;
+}
 
 .me {
   display: flex;
@@ -143,13 +143,13 @@ ol.c-list a {
 
   /* About paragraph */
 
-
   .text-res {
     width: 457px;
     height: 148px;
     line-height: 25px;
     font-size: 17px;
   }
+
   /* contact-section  */
 
   .c-me {
@@ -191,7 +191,9 @@ ol.c-list a {
     display: flex;
     gap: 20%;
     flex-direction: row;
+
     /* list-style: none; */
+
     /* text-decoration: none; */
   }
 
