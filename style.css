@@ -1107,14 +1107,17 @@ img.nature-animated {
 
   .text {
     padding-top: 12px;
-    width: 967px;
-    padding-left: 257px;
+    width: 904px;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
+    margin-top: 29px;
     font-size: 18px;
-    line-height: 26px;
+    height: 402px;
     color: #344563;
+    padding-top: 114px;
+    border-radius: 7px;
     padding-bottom: 6px;
+    margin-right: 14rem;
   }
 
   h4.connect-text a {
