@@ -22,10 +22,7 @@ body {
 ul li {
   margin-bottom: 32px;
   font-size: 22px;
-
-  /* padding-left: 38px; */
-
-  /* list-style: none; */
+  list-style: none;
 }
 
 .name {
@@ -176,9 +173,10 @@ ol.c-list a {
     padding: 12px;
     color: #fff;
     background-color: #ff6b00;
+    border-radius: 9px;
     border: none;
     font-size: 17px;
-    width: 124px;
+    width: 169px;
     margin: 22px 0;
   }
 
@@ -191,12 +189,7 @@ ol.c-list a {
     display: flex;
     gap: 20%;
     flex-direction: row;
-
-    /* list-style: none; */
-
-    /* text-decoration: none; */
   }
-
 
   /* footer */
 
