@@ -47,16 +47,18 @@ body {
 
 h1 {
   color: #172b4d;
-  font-size: 49px;
+  font-size: 32px;
   line-height: 52px;
-  text-align: left;
-  width: 915px;
-  padding-left: 260px;
-  padding-top: 96px;
+  text-align: center;
+  width: 327px;
+  padding-left: 24px;
+  padding-top: 38px;
   font-family: 'Poppins', sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   display: flex;
   align-items: center;
+  font-style: italic;
+  
 }
 
 .prg {
@@ -901,13 +903,13 @@ img.nature-animated {
     line-height: 52px;
     text-align: left;
     width: 915px;
-    padding-right: 260px;
     padding-left: 260px;
-    padding-top: 228px;
+    padding-top: 95px;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     display: flex;
     align-items: center;
+    justify-content: center;
   }
 
   .card {
