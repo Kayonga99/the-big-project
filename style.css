@@ -68,9 +68,6 @@ h1 {
   animation: rotation 2s;
 }
 
-.logo-icon {
-  width: 40px;
-}
 
 @keyframes rotation {
   100% {
