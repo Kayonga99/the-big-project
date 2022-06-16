@@ -18,6 +18,17 @@ body {
   margin-bottom: 10px;
 }
 
+.my-title {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: #fff;
+  font-family: 'poppins', sans-serif;
+  font-weight: 700;
+  margin-top: 12px;
+  font-size: 14px;
+}
+
 .header {
   background-color: #fff;
   display: flex;
