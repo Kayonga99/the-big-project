@@ -8,6 +8,8 @@
 
 body {
   background-color: #e5e5e5;
+  /* background-color: #fff; */
+
 }
 
 /* kayonga image  */
@@ -278,7 +280,8 @@ li.info0 {
 
 .card-list-5 {
   background-color: #fff;
-  height: 1346px;
+  /* height: 1346px; */
+  height: 1567px;
   margin-top: 114px;
   border-top-right-radius: 94px;
 }
@@ -743,9 +746,15 @@ img.nature-animated {
 }
 
 #frameworks {
-  display: none;
-  width: 327px;
-  height: 154px;
+    /* display: none; */
+    width: 281px;
+    height: 154px;
+    padding-top: 15px;
+    background-color: rgba(112, 105, 105, 0.7);
+    color: #fff;
+    margin-left: 47px;
+    border-radius: 7px;
+    margin-bottom: 13px;
 }
 
 .skills-ul-li {
@@ -759,9 +768,15 @@ img.nature-animated {
 }
 
 #skills {
-  /* display: none; */
-  width: 327px;
-  height: 154px;
+    /* display: none; */
+    width: 281px;
+    height: 154px;
+    padding-top: 15px;
+    background-color: rgba(112, 105, 105, 0.7);
+    color: #fff;
+    margin-left: 47px;
+    border-radius: 7px;
+    margin-bottom: 13px;
 }
 
 /* @media querry */
