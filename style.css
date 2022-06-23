@@ -741,7 +741,10 @@ img.nature-animated {
   display: flex;
   gap: 20%;
   flex-direction: column;
-  
+  margin-left: 100px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'poppins', sans-serif;
 }
 
 /* @media querry */
