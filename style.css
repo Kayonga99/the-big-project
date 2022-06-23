@@ -791,6 +791,9 @@ img.nature-animated {
   font-family: 'Poppins', sans-serif;
   font-weight: 900;
   display: flex;
+}
+
+.r-image {
   padding-bottom: 164px;
 }
 
