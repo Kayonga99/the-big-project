@@ -787,11 +787,11 @@ img.nature-animated {
   text-align: center;
   width: 327px;
   padding-left: 24px;
-  padding-top: 38px;
+  padding-top: 58px;
   font-family: 'Poppins', sans-serif;
   font-weight: 900;
   display: flex;
-  font-style: italic;
+  padding-bottom: 164px;
 }
 
 /* @media querry */
