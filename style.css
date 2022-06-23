@@ -22,7 +22,7 @@ body {
 
 #frameworks {
   width: 327px;
-  height: 300px
+  height: 154px;
 }
 
 .my-title {
@@ -737,6 +737,13 @@ img.nature-animated {
   display: block;
 }
 
+.skills-ul-li {
+  display: flex;
+  gap: 20%;
+  flex-direction: column;
+  
+}
+
 /* @media querry */
 
 @media screen and (min-width: 768px) {
@@ -1245,7 +1252,7 @@ img.nature-animated {
     color:red;
   }
 
-  .div.skills {
+  div.skills {
     display: flex;
     gap: 20%;
     flex-direction: row;
