@@ -1235,4 +1235,19 @@ img.nature-animated {
     justify-content: center;
     align-items: center;
   }
+
+  .lorem {
+    color:red;
+  }
+
+  .div.skills {
+    display: flex;
+    gap: 20%;
+    flex-direction: row;
+  }
+    .main {
+    font-size: 32px;
+    padding-left: 0;
+  }
+
 }
