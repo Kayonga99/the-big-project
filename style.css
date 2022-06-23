@@ -20,8 +20,9 @@ body {
   border-radius: 7px;
 }
 
-#skills {
+#frameworks {
   width: 327px;
+  height: 300px
 }
 
 .my-title {
