@@ -20,6 +20,10 @@ body {
   border-radius: 7px;
 }
 
+#skills {
+  width: 327px;
+}
+
 .my-title {
   display: flex;
   text-align: center;
