@@ -118,7 +118,7 @@ h1 {
   gap: 20px;
   padding-left: 24px;
   padding-top: 12px;
-  padding-bottom: 136px;
+  padding-bottom: 4px;
 }
 
 .ul-list-icons-2 {
@@ -778,6 +778,20 @@ img.nature-animated {
   margin-left: 47px;
   border-radius: 7px;
   margin-bottom: 13px;
+}
+
+.r-work {
+  color: #172b4d;
+  font-size: 32px;
+  line-height: 52px;
+  text-align: center;
+  width: 327px;
+  padding-left: 24px;
+  padding-top: 38px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  display: flex;
+  font-style: italic;
 }
 
 /* @media querry */
