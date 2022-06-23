@@ -1327,4 +1327,15 @@ img.nature-animated {
     font-size: 32px;
     padding-left: 0;
   }
+
+  .recent-div {
+    display: flex;
+    flex-direction: row;
+    width: 948px;
+    justify-content: center;
+  }
+
+  .r-image {
+    margin-top: 69px;
+  }
 }
