@@ -747,7 +747,7 @@ img.nature-animated {
 }
 
 #frameworks {
-  /* display: none; */
+  display: none;
   width: 281px;
   height: 154px;
   padding-top: 15px;
@@ -769,7 +769,7 @@ img.nature-animated {
 }
 
 #skills {
-  /* display: none; */
+  display: none;
   width: 281px;
   height: 154px;
   padding-top: 15px;
