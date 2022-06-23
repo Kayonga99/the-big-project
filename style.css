@@ -794,7 +794,14 @@ img.nature-animated {
 }
 
 .r-image {
-  padding-bottom: 164px;
+  padding-bottom: 104px;
+  width: 40px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  margin-top: 32px;
+  margin-left: 141px;
 }
 
 .recent-div {
