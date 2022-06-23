@@ -797,6 +797,12 @@ img.nature-animated {
   padding-bottom: 164px;
 }
 
+.recent-div {
+  display: flex;
+  flex-direction: column;
+  width: 327px;
+}
+
 /* @media querry */
 
 @media screen and (min-width: 768px) {
